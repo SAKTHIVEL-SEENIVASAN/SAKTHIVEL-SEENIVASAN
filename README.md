@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sakthivel%20S%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20·%20ML%20·%20LLM%20%26%20RAG%20Systems&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sakthivel%20S%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20%7C%20LLM%20and%20RAG%20Systems&descSize=18&descAlignY=60" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-callmedataman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/callmedataman)
 [![Email](https://img.shields.io/badge/Email-s.m.sakthivelofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.m.sakthivelofficial@gmail.com)
