@@ -52,7 +52,7 @@
         <li><b>Gold Rank</b> – Top 5 in AI & Data Science</li>
         <li>AI Engineer Intern – <b>Aiseri Lab</b></li>
         <li>AI Research Intern – <b>IIT Ropar (Annam.ai)</b></li>
-        <li>📍 Bengaluru, India</li>
+        <li>Bengaluru, India</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -61,6 +61,7 @@
         <li>🧠 Specializing in: <b>LLMs, RAG, Computer Vision, NLP</b></li>
         <li>⚡ Building: <b>Production-grade AI pipelines</b></li>
         <li>📚 B.Tech – Artificial Intelligence & Data Science (2022–2026)</li>
+        <li>📚 Achariya College of Engineering Technology (Affiliated to Pondicherry University)</li>
       </ul>
     </td>
   </tr>
