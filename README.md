@@ -111,29 +111,6 @@
 <!-- ===== DIVIDER ===== -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ===== SKILL PROGRESS ===== -->
-<div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=999&center=true&vCenter=true&width=250&lines=Skill+Proficiency" alt="Skill Proficiency"/>
-  </h2>
-</div>
-
-<p align="center">
-  <img src="https://progress-bar.dev/100?title=Python&width=300&color=3776AB"/>
-  <img src="https://progress-bar.dev/95?title=SQL&width=300&color=4479A1"/>
-  <img src="https://progress-bar.dev/92?title=Machine+Learning&width=300&color=FF6F00"/>
-  <img src="https://progress-bar.dev/88?title=Deep+Learning&width=300&color=FF6F00"/>
-  <img src="https://progress-bar.dev/90?title=NLP&width=300&color=8A2BE2"/>
-  <img src="https://progress-bar.dev/85?title=Computer+Vision&width=300&color=007ACC"/>
-  <img src="https://progress-bar.dev/88?title=LLMs+%26+RAG&width=300&color=412991"/>
-  <img src="https://progress-bar.dev/82?title=Data+Engineering&width=300&color=FFCA28"/>
-  <img src="https://progress-bar.dev/80?title=Cloud+%26+DevOps&width=300&color=2496ED"/>
-  <img src="https://progress-bar.dev/85?title=Prompt+Engineering&width=300&color=FFD700"/>
-</p>
-
-<!-- ===== DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 <!-- ===== EXPERIENCE ===== -->
 <div align="center">
   <h2>
@@ -144,7 +121,7 @@
 <table align="center" border="0" cellpadding="12" width="90%">
   <tr>
     <td valign="top" width="50%">
-      <h3>AI Engineer</h3>
+      <h3>💼 AI Engineer</h3>
       <p><b>Ashirvad by Aliaxis</b> · Jul 2025 – Present</p>
       <ul>
         <li>Building secure, low-cost Generative AI solutions for enterprise workflows</li>
@@ -152,7 +129,7 @@
         <li>Production AI applications focused on security, scalability, and business optimization</li>
       </ul>
       <br/>
-      <h3>Technical Trainer — AI & Generative AI</h3>
+      <h3>📚 Technical Trainer — AI & Generative AI</h3>
       <p><b>Marcello Tech</b> · Jun 2026 – Present</p>
       <ul>
         <li>Delivering instructor-led training in AI, ML, Python, SQL, and Generative AI</li>
@@ -161,7 +138,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>AI Engineer Intern</h3>
+      <h3>⚡ AI Engineer Intern</h3>
       <p><b>Aiseri Lab</b> · Jan 2026 – Jun 2026</p>
       <ul>
         <li><b>SolarMind AI:</b> Real-time anomaly detection for solar PV monitoring</li>
@@ -170,7 +147,7 @@
         <li>Full pipeline from ingestion → inference → user insights</li>
       </ul>
       <br/>
-      <h3>AI Research Intern</h3>
+      <h3>🔬 AI Research Intern</h3>
       <p><b>IIT Ropar (Annam.ai)</b> · Jan 2025 – Dec 2025</p>
       <ul>
         <li><b>Agri-Waste2Fuel:</b> Multimodal ML pipeline with YOLOv8</li>
@@ -286,22 +263,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKTHIVEL-SEENIVASAN&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/>
 </p>
-
-<!-- ===== DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ===== SNAKE CONTRIBUTION ===== -->
-<div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=999&center=true&vCenter=true&width=300&text=Contribution+Snake" alt="Contribution Snake"/>
-  </h2>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAKTHIVEL-SEENIVASAN/SAKTHIVEL-SEENIVASAN/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAKTHIVEL-SEENIVASAN/SAKTHIVEL-SEENIVASAN/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SAKTHIVEL-SEENIVASAN/SAKTHIVEL-SEENIVASAN/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
 
 <!-- ===== DIVIDER ===== -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
