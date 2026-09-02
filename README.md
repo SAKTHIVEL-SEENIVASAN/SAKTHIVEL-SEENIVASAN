@@ -1,9 +1,10 @@
 <div align="center">
 <!-- ===== BANNER ===== -->
+<!-- FIXED: URL-encoded & as %26 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=SAKTHIVEL%20S%20M&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20ML%20%7C%20DL%20%7C%20NLP%20%7C%20CV&descAlignY=58&descSize=18&animation=twinkling&fontColor=white"/>
 
 <!-- ===== ANIMATED TYPING HEADER ===== -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=800&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI+Specialist;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computer+Vision+%7C+LLMs+%7C+RAG+Systems;Building+Production-Grade+AI+Solutions;4x+National+Hackathon+Winner;IIT+Ropar+National+Champion" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=800&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI+Specialist;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computer+Vision+%7C+LLMs+%7C+RAG+Systems;Building+Production-Grade+AI+Solutions;4%C3%97+National+Hackathon+Winner;IIT+Ropar+National+Champion" alt="Typing Animation"/>
 
 <!-- ===== VISITOR COUNTER ===== -->
 <img src="https://komarev.com/ghpvc/?username=SAKTHIVEL-SEENIVASAN&label=PROFILE+VIEWS&color=0e75b6&style=flat-square&abbreviated=true"/>
@@ -15,7 +16,7 @@
 <a href="https://github.com/SAKTHIVEL-SEENIVASAN">
   <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="mailto:thinkrecursive@gmail.com">
+<a href="mailto:s.m.sakthivelofficial@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/profile/s_m_sakthivelof1">
@@ -25,11 +26,25 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<p>+91 9342192478 &nbsp;|&nbsp; Bengaluru, India</p>
+<p>+91 9342192478 · thinkrecursive@gmail.com · Bengaluru, India</p>
+
+<!-- ===== GLASSMORPHISM DIVIDER ===== -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
+
+<!-- ===== PROFESSIONAL SUMMARY ===== -->
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=999&center=true&vCenter=true&width=250&lines=Professional+Summary" alt="Professional Summary"/>
+  </h2>
+</div>
+
+<p align="center">
+  <b>AI Engineer</b> (Gold Rank — Top 5 in AI & Data Science) with 1+ year of hands-on experience building end-to-end AI systems across Machine Learning, Deep Learning, Generative AI, LLMs, and RAG pipelines. Experienced across the complete AI lifecycle — from data preprocessing and model development to deployment and real-time inference. Winner of national-level hackathons with over ₹4,00,000 in prizes, demonstrating strong problem-solving and applied AI skills. Also experienced as a technical trainer and student project mentor, delivering AI/ML and Generative AI instruction to undergraduates and early-career engineers. Focused on building scalable, reliable, and impactful AI solutions that solve real-world challenges.
+</p>
 
 <!-- ===== DIVIDER ===== -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
 
 <!-- ===== ABOUT ME ===== -->
 <div align="center">
@@ -39,18 +54,18 @@
 </div>
 
 <p align="center">
-  AI Engineer (Gold Rank, Top 5 in AI & Data Science) with 1+ year of hands-on experience building end-to-end AI systems across Machine Learning, Deep Learning, Generative AI, LLMs, and RAG pipelines. Experienced across the full AI lifecycle, from data preprocessing and model development to deployment and real-time inference. Winner of national-level hackathons with over ₹4,00,000 in prizes. Also active as a technical trainer and student project mentor, delivering AI/ML and Generative AI instruction to undergraduates and early-career engineers.
+  <b>AI Engineer</b> passionate about building production-ready AI systems across the full spectrum — from machine learning and deep learning to generative AI, NLP, computer vision, data engineering, and large language models with RAG architectures.
 </p>
 
 <table align="center" border="0" cellpadding="10">
   <tr>
     <td valign="top" width="50%">
       <ul>
-        <li><b>4x National Hackathon Winner</b></li>
+        <li><b>4× National Hackathon Winner</b></li>
         <li><b>IIT Ropar National Hackathon Winner</b> (₹3,00,000 Prize + ₹75,000 Internship)</li>
-        <li><b>Gold Rank</b>, Top 5 in AI & Data Science, Pondicherry University</li>
-        <li>AI Engineer — <b>Ashirvad by Aliaxis</b></li>
-        <li>Technical Trainer — <b>Marcello Tech</b></li>
+        <li><b>Gold Rank</b> – Top 5 in AI & Data Science</li>
+        <li>AI Engineer – <b>Ashirvad by Aliaxis</b></li>
+        <li>Technical Trainer – <b>Marcello Tech</b></li>
         <li>Bengaluru, India</li>
       </ul>
     </td>
@@ -59,8 +74,8 @@
         <li>Open to: <b>AI Engineer, ML Engineer, GenAI Engineer, Data Engineer</b></li>
         <li>Specializing in: <b>LLMs, RAG, Computer Vision, NLP</b></li>
         <li>Building: <b>Production-grade AI pipelines</b></li>
-        <li>B.Tech, Artificial Intelligence & Data Science (2022–2026)</li>
-        <li>Achariya College of Engineering & Technology (affiliated to Pondicherry University)</li>
+        <li>B.Tech – Artificial Intelligence & Data Science (2022–2026)</li>
+        <li>Achariya College of Engineering Technology (Affiliated to Pondicherry University)</li>
       </ul>
     </td>
   </tr>
@@ -75,30 +90,31 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=999&center=true&vCenter=true&width=200&lines=Tech+Stack" alt="Tech Stack"/>
   </h2>
 </div>
+
 <div align="center">
-  <!-- LANGUAGES -->
+<!-- LANGUAGES -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <!-- AI / ML -->
+<!-- AI / ML -->
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer_Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF4F4F?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF4F4F?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge&logo=openai&logoColor=white"/>
-  <!-- LIBRARIES -->
+<!-- LIBRARIES -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
-  <!-- BACKEND -->
+<!-- BACKEND -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <!-- TOOLS -->
+<!-- TOOLS -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -115,6 +131,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=999&center=true&vCenter=true&width=250&lines=AI+Career+Roadmap" alt="AI Career Roadmap"/>
   </h2>
 </div>
+
 <p align="center">
   <img src="https://progress-bar.dev/100?title=Python&width=300&color=3776AB"/>
   <img src="https://progress-bar.dev/95?title=SQL&width=300&color=4479A1"/>
@@ -148,19 +165,19 @@
 <h3 align="center">Technical Trainer — AI & Generative AI</h3>
 <p align="center"><b>Marcello Tech</b>, Tiruchirappalli (Remote) · Jun 2026 – Present</p>
 <ul>
-  <li>Deliver instructor-led training in AI, Machine Learning, Python, SQL, and Generative AI to undergraduates and fresh graduates.</li>
+  <li>Deliver instructor-led training in Artificial Intelligence, Machine Learning, Python, SQL, and Generative AI to undergraduate students and fresh graduates.</li>
   <li>Design course materials, hands-on labs, Jupyter notebooks, assignments, and real-world AI/ML projects.</li>
   <li>Teach ML algorithms, data preprocessing, feature engineering, model evaluation, and deployment using Python.</li>
   <li>Train students on LLMs, prompt engineering, RAG, AI agents, embeddings, and vector databases.</li>
-  <li>Mentor students building end-to-end AI applications with Python, Pandas, NumPy, Scikit-learn, Git/GitHub, and Jupyter.</li>
+  <li>Mentor students in building end-to-end AI applications using Python, Pandas, NumPy, Scikit-learn, Git/GitHub, and Jupyter.</li>
   <li>Conduct coding assessments, project evaluations, and interview-preparation sessions.</li>
 </ul>
 
 <h3 align="center">AI Engineer Intern (Generative AI, LLMs, RAG)</h3>
-<p align="center"><b>Aiseri Lab</b>, Bengaluru · Jan – Jun 2026</p>
+<p align="center"><b>Aiseri Lab</b>, Bengaluru (On-site) · Jan – Jun 2026</p>
 <p align="center"><i>SolarMind AI — Intelligent Solar Analytics Platform</i></p>
 <ul>
-  <li>Deployed a real-time anomaly detection system for solar PV monitoring using time-series ML; engineered features from structured datasets with SQL and Pandas, enabling scalable pipelines across diverse farm configurations.</li>
+  <li>Deployed a real-time anomaly detection system for solar PV monitoring using time-series ML; engineered features from structured datasets with SQL and Pandas, enabling scalable data pipelines across diverse farm configurations.</li>
   <li>Integrated LLM-powered automated reporting (Ollama) for data-driven decisions; owned the full pipeline from data ingestion through feature engineering, real-time inference, and user-facing insights.</li>
 </ul>
 
@@ -168,28 +185,28 @@
 <p align="center"><b>Besant Technologies</b>, Electronic City, Bengaluru · Mar – Jun 2026</p>
 <p align="center"><i>4-month offline, classroom-based AI/ML training and internship program</i></p>
 <ul>
-  <li>Completed an intensive offline curriculum covering Python, SQL, statistics, and the full ML workflow, with daily hands-on lab sessions.</li>
-  <li>Built supervised learning models (regression and classification), benchmarking linear/logistic regression, decision trees, and ensemble methods on accuracy, precision, recall, and F1.</li>
-  <li>Practiced end-to-end data preprocessing, handling missing values, encoding, scaling, and outlier treatment for production-ready datasets.</li>
-  <li>Worked on applied deep learning fundamentals (neural networks, CNN basics) and version-controlled all coursework with Git/GitHub.</li>
-  <li>Collaborated with peers on capstone mini-projects, presenting model results and technical documentation to instructors.</li>
+  <li>Completed an intensive offline curriculum covering Python, SQL, statistics, and the full ML workflow — data cleaning, feature engineering, model building, and evaluation — with daily hands-on lab sessions.</li>
+  <li>Built supervised learning models (regression and classification) on real-world datasets, benchmarking algorithms such as linear/logistic regression, decision trees, and ensemble methods against accuracy, precision, recall, and F1.</li>
+  <li>Practiced end-to-end data preprocessing — handling missing values, encoding, scaling, and outlier treatment — to prepare production-ready training datasets.</li>
+  <li>Worked on applied deep learning fundamentals (neural networks, CNN basics) and version-controlled all coursework and projects using Git/GitHub.</li>
+  <li>Collaborated with peers on capstone mini-projects, presenting model results and technical documentation to instructors as part of final internship evaluation.</li>
 </ul>
 
 <h3 align="center">AI Research Intern (ML, DL)</h3>
 <p align="center"><b>IIT Ropar — Annam.ai</b> · Jan – Dec 2025</p>
 <p align="center"><i>Agri-Waste2Fuel — Multimodal ML System · ₹3,00,000 Prize + ₹75,000 Funded Internship</i></p>
 <ul>
-  <li>Built a multimodal ML pipeline (YOLOv8 + structured inputs) for agricultural waste classification: 92.4% accuracy, F1 0.91, under 120ms real-time inference latency, validated against 500+ labeled images.</li>
-  <li>Designed a ranking and optimization recommendation engine (biogas / compost / biofuel pathways) using priority scoring with 24+ conditional rules, analogous to ads recommendation ranking systems.</li>
-  <li>Developed carbon emission regression models evaluated with MAE/RMSE; owned the full production stack (FastAPI + React + PostgreSQL + Firebase), reducing manual reporting effort by roughly 40%.</li>
+  <li>Built a multimodal ML pipeline (YOLOv8 + structured inputs) for agricultural waste classification — 92.4% accuracy, F1: 0.91, <120ms real-time inference latency; validated against 500+ labeled images.</li>
+  <li>Designed a ranking and optimization recommendation engine (biogas / compost / biofuel pathways) using priority scoring with 24+ conditional rules — analogous to ads recommendation ranking systems.</li>
+  <li>Developed carbon emission regression models evaluated with MAE/RMSE; owned the full production stack (FastAPI + React + PostgreSQL + Firebase), reducing manual reporting effort by approximately 40%.</li>
 </ul>
 
 <h3 align="center">Student Project Mentor — Hackathons & AI Projects</h3>
 <p align="center"><b>Achariya College of Engineering & Technology</b>, Puducherry · 2025 – Present</p>
 <ul>
   <li>Mentor undergraduate students in AI, Machine Learning, Python, SQL, and Data Science projects for academic and hackathon competitions.</li>
-  <li>Guide student teams through the full AI development lifecycle: problem identification, dataset preparation, model development, evaluation, deployment, and technical documentation.</li>
-  <li>Assist teams building computer vision, predictive analytics, recommendation systems, and Generative AI applications using industry-standard tools.</li>
+  <li>Guide student teams through the complete AI development lifecycle — problem identification, dataset preparation, model development, evaluation, deployment, and technical documentation.</li>
+  <li>Assist teams in building computer vision, predictive analytics, recommendation systems, and Generative AI applications using industry-standard tools.</li>
   <li>Provide technical guidance on project architecture, debugging, Git/GitHub workflows, presentation preparation, and research documentation.</li>
 </ul>
 
@@ -210,14 +227,14 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAKTHIVEL-SEENIVASAN&repo=trinetra-ai&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
       <br/><b>TRINETRA AI</b> · Intelligent Travel Recommendation System (Team Lead)<br/>
-      Modular RAG pipeline with planning, validation, and fallback logic; personalized recommendations ranked with Precision@K.
+      Built a modular AI system using a RAG pipeline with decision-making workflow, incorporating planning, validation, and fallback mechanisms (agent-like architecture). Designed a personalized recommendation system using user preference modeling and ranking logic, evaluated using Precision@K.
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN/civiceye">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAKTHIVEL-SEENIVASAN&repo=civiceye&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
       <br/><b>CivicEye</b> · AI-Based Civic Issue Detection · 2nd Prize, Smart City Hackathon<br/>
-      YOLOv8 detection and severity classification of potholes, with geo-tagging, OCR, and a SQL-backed cost-prediction module.
+      YOLOv8-based real-time detection and severity classification of civic issues (potholes); integrated geo-tagging, OCR, and a SQL-backed cost-prediction module — prioritized resolution by severity score; evaluated with Precision, Recall, F1. Built an end-to-end pipeline from image input to database storage to cost estimation, demonstrating full-stack AI system design.
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN/solarmind-ai">
@@ -245,7 +262,7 @@
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAKTHIVEL-SEENIVASAN&repo=SAKTHIVEL-SEENIVASAN&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
-      <br/><b>View All Repositories</b>
+      <br/><b>View All →</b>
     </td>
   </tr>
 </table>
@@ -261,7 +278,7 @@
 </div>
 
 <p align="center">
-  <b>B.Tech, Artificial Intelligence & Data Science</b> · 2022 – 2026<br/>
+  <b>B.Tech — Artificial Intelligence & Data Science</b> · 2022 – 2026<br/>
   Achariya College of Engineering & Technology, Puducherry (affiliated to Pondicherry University)<br/>
   CGPA: 8.5 / 10.0 · Top 5 in Department
 </p>
@@ -278,8 +295,12 @@
 
 <table align="center" border="0" cellpadding="8">
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/4x_National_Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/4%C3%97_National_Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/></td>
     <td align="center"><img src="https://img.shields.io/badge/IIT_Ropar_National_Winner-FF6B00?style=for-the-badge&logo=medal&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Smart_City_Hackathon_Runner--Up-00B4D8?style=for-the-badge&logo=award&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Best_Innovation_Award-7B2FBE?style=for-the-badge&logo=lightbulb&logoColor=white"/></td>
   </tr>
   <tr>
     <td align="center" colspan="2"><img src="https://img.shields.io/badge/Gold_Rank_Top_5_AI_%26_Data_Science-FFD700?style=for-the-badge&logo=star&logoColor=black"/></td>
@@ -294,7 +315,7 @@
   1st Place, TechXplore 25 — ₹2,000 Cash Prize<br/>
   Top 3, National IMPACTX Innovation Hackathon — ₹4,000 Cash Prize<br/>
   Runner-Up, Yi Yuva Future 5.0<br/>
-  Department Top Performer, AI & Data Science
+  Department Top Performer — AI & Data Science
 </p>
 
 <!-- ===== DIVIDER ===== -->
@@ -306,6 +327,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=999&center=true&vCenter=true&width=250&text=GitHub+Analytics" alt="GitHub Analytics"/>
   </h2>
 </div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAKTHIVEL-SEENIVASAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHIVEL-SEENIVASAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
@@ -371,12 +393,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=999&center=true&vCenter=true&width=250&text=My+Journey" alt="My Journey"/>
   </h2>
 </div>
+
 <p align="center">
   <b>2022</b> · Started B.Tech in AI & Data Science<br/>
-  <b>2023</b> · First hackathon win, built foundational ML skills<br/>
-  <b>2024</b> · 3x national hackathon wins, Gold Rank in AI & Data Science<br/>
-  <b>2025</b> · AI Research Intern at IIT Ropar, built the YOLOv8 multimodal pipeline<br/>
-  <b>2026</b> · Besant Technologies AI/ML internship, Aiseri Lab AI Engineer Intern, Technical Trainer at Marcello Tech, and AI Engineer at Ashirvad by Aliaxis<br/>
+  <b>2023</b> · First Hackathon Win · Built foundational ML skills<br/>
+  <b>2024</b> · 3× National Hackathon Wins · Gold Rank in AI & Data Science<br/>
+  <b>2025</b> · AI Research Intern @ IIT Ropar · Built YOLOv8 multimodal pipeline<br/>
+  <b>2026</b> · Besant Technologies AI/ML Internship · Aiseri Lab AI Engineer Intern · Technical Trainer @ Marcello Tech · AI Engineer @ Ashirvad by Aliaxis<br/>
   <b>2026+</b> · Building the future of AI engineering
 </p>
 
@@ -389,6 +412,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=999&center=true&vCenter=true&width=250&text=Connect+With+Me" alt="Connect With Me"/>
   </h2>
 </div>
+
 <p align="center">
   <a href="https://linkedin.com/in/callmedataman">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -396,7 +420,7 @@
   <a href="https://github.com/SAKTHIVEL-SEENIVASAN">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:thinkrecursive@gmail.com">
+  <a href="mailto:s.m.sakthivelofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/s_m_sakthivelof1">
@@ -406,6 +430,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
 <p align="center">
   <b>Building AI that solves real-world problems through data, intelligence, and scalable engineering.</b>
 </p>
