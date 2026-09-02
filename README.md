@@ -49,8 +49,8 @@
         <li><b>4x National Hackathon Winner</b></li>
         <li><b>IIT Ropar National Hackathon Winner</b> (₹3,00,000 Prize + ₹75,000 Internship)</li>
         <li><b>Gold Rank</b>, Top 5 in AI & Data Science, Pondicherry University</li>
-        <li>AI Engineer &mdash; <b>Ashirvad by Aliaxis</b></li>
-        <li>Technical Trainer &mdash; <b>Marcello Tech</b></li>
+        <li>AI Engineer — <b>Ashirvad by Aliaxis</b></li>
+        <li>Technical Trainer — <b>Marcello Tech</b></li>
         <li>Bengaluru, India</li>
       </ul>
     </td>
@@ -59,7 +59,7 @@
         <li>Open to: <b>AI Engineer, ML Engineer, GenAI Engineer, Data Engineer</b></li>
         <li>Specializing in: <b>LLMs, RAG, Computer Vision, NLP</b></li>
         <li>Building: <b>Production-grade AI pipelines</b></li>
-        <li>B.Tech, Artificial Intelligence & Data Science (2022&ndash;2026)</li>
+        <li>B.Tech, Artificial Intelligence & Data Science (2022–2026)</li>
         <li>Achariya College of Engineering & Technology (affiliated to Pondicherry University)</li>
       </ul>
     </td>
@@ -76,10 +76,10 @@
   </h2>
 </div>
 <div align="center">
-<!-- LANGUAGES -->
+  <!-- LANGUAGES -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<!-- AI / ML -->
+  <!-- AI / ML -->
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white"/>
@@ -87,18 +87,18 @@
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG_Pipelines-FF4F4F?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge&logo=openai&logoColor=white"/>
-<!-- LIBRARIES -->
+  <!-- LIBRARIES -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
-<!-- BACKEND -->
+  <!-- BACKEND -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<!-- TOOLS -->
+  <!-- TOOLS -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -138,15 +138,15 @@
 </div>
 
 <h3 align="center">AI Engineer</h3>
-<p align="center"><b>Ashirvad by Aliaxis</b>, Bengaluru &middot; Jul 2026 &ndash; Present</p>
+<p align="center"><b>Ashirvad by Aliaxis</b>, Bengaluru · Jul 2026 – Present</p>
 <ul>
   <li>Building secure, low-cost Generative AI solutions for enterprise workflows.</li>
   <li>Developing AI assistants, document intelligence, and automation tools powered by LLMs.</li>
   <li>Working on production AI applications with a focus on security, scalability, and business process optimization.</li>
 </ul>
 
-<h3 align="center">Technical Trainer &mdash; AI & Generative AI</h3>
-<p align="center"><b>Marcello Tech</b>, Tiruchirappalli (Remote) &middot; Jun 2026 &ndash; Present</p>
+<h3 align="center">Technical Trainer — AI & Generative AI</h3>
+<p align="center"><b>Marcello Tech</b>, Tiruchirappalli (Remote) · Jun 2026 – Present</p>
 <ul>
   <li>Deliver instructor-led training in AI, Machine Learning, Python, SQL, and Generative AI to undergraduates and fresh graduates.</li>
   <li>Design course materials, hands-on labs, Jupyter notebooks, assignments, and real-world AI/ML projects.</li>
@@ -157,15 +157,15 @@
 </ul>
 
 <h3 align="center">AI Engineer Intern (Generative AI, LLMs, RAG)</h3>
-<p align="center"><b>Aiseri Lab</b>, Bengaluru &middot; Jan &ndash; Jun 2026</p>
-<p align="center"><i>SolarMind AI &mdash; Intelligent Solar Analytics Platform</i></p>
+<p align="center"><b>Aiseri Lab</b>, Bengaluru · Jan – Jun 2026</p>
+<p align="center"><i>SolarMind AI — Intelligent Solar Analytics Platform</i></p>
 <ul>
   <li>Deployed a real-time anomaly detection system for solar PV monitoring using time-series ML; engineered features from structured datasets with SQL and Pandas, enabling scalable pipelines across diverse farm configurations.</li>
   <li>Integrated LLM-powered automated reporting (Ollama) for data-driven decisions; owned the full pipeline from data ingestion through feature engineering, real-time inference, and user-facing insights.</li>
 </ul>
 
 <h3 align="center">Artificial Intelligence & Machine Learning Intern</h3>
-<p align="center"><b>Besant Technologies</b>, Electronic City, Bengaluru &middot; Mar &ndash; Jun 2026</p>
+<p align="center"><b>Besant Technologies</b>, Electronic City, Bengaluru · Mar – Jun 2026</p>
 <p align="center"><i>4-month offline, classroom-based AI/ML training and internship program</i></p>
 <ul>
   <li>Completed an intensive offline curriculum covering Python, SQL, statistics, and the full ML workflow, with daily hands-on lab sessions.</li>
@@ -176,16 +176,16 @@
 </ul>
 
 <h3 align="center">AI Research Intern (ML, DL)</h3>
-<p align="center"><b>IIT Ropar &mdash; Annam.ai</b> &middot; Jan &ndash; Dec 2025</p>
-<p align="center"><i>Agri-Waste2Fuel &mdash; Multimodal ML System &middot; ₹3,00,000 Prize + ₹75,000 Funded Internship</i></p>
+<p align="center"><b>IIT Ropar — Annam.ai</b> · Jan – Dec 2025</p>
+<p align="center"><i>Agri-Waste2Fuel — Multimodal ML System · ₹3,00,000 Prize + ₹75,000 Funded Internship</i></p>
 <ul>
   <li>Built a multimodal ML pipeline (YOLOv8 + structured inputs) for agricultural waste classification: 92.4% accuracy, F1 0.91, under 120ms real-time inference latency, validated against 500+ labeled images.</li>
   <li>Designed a ranking and optimization recommendation engine (biogas / compost / biofuel pathways) using priority scoring with 24+ conditional rules, analogous to ads recommendation ranking systems.</li>
   <li>Developed carbon emission regression models evaluated with MAE/RMSE; owned the full production stack (FastAPI + React + PostgreSQL + Firebase), reducing manual reporting effort by roughly 40%.</li>
 </ul>
 
-<h3 align="center">Student Project Mentor &mdash; Hackathons & AI Projects</h3>
-<p align="center"><b>Achariya College of Engineering & Technology</b>, Puducherry &middot; 2025 &ndash; Present</p>
+<h3 align="center">Student Project Mentor — Hackathons & AI Projects</h3>
+<p align="center"><b>Achariya College of Engineering & Technology</b>, Puducherry · 2025 – Present</p>
 <ul>
   <li>Mentor undergraduate students in AI, Machine Learning, Python, SQL, and Data Science projects for academic and hackathon competitions.</li>
   <li>Guide student teams through the full AI development lifecycle: problem identification, dataset preparation, model development, evaluation, deployment, and technical documentation.</li>
@@ -209,21 +209,21 @@
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN/trinetra-ai">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAKTHIVEL-SEENIVASAN&repo=trinetra-ai&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
-      <br/><b>TRINETRA AI</b> &middot; Intelligent Travel Recommendation System (Team Lead)<br/>
+      <br/><b>TRINETRA AI</b> · Intelligent Travel Recommendation System (Team Lead)<br/>
       Modular RAG pipeline with planning, validation, and fallback logic; personalized recommendations ranked with Precision@K.
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN/civiceye">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAKTHIVEL-SEENIVASAN&repo=civiceye&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
-      <br/><b>CivicEye</b> &middot; AI-Based Civic Issue Detection &middot; 2nd Prize, Smart City Hackathon<br/>
+      <br/><b>CivicEye</b> · AI-Based Civic Issue Detection · 2nd Prize, Smart City Hackathon<br/>
       YOLOv8 detection and severity classification of potholes, with geo-tagging, OCR, and a SQL-backed cost-prediction module.
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN/solarmind-ai">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAKTHIVEL-SEENIVASAN&repo=solarmind-ai&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
-      <br/><b>SolarMind AI</b> &middot; Time-Series ML + LLM<br/>
+      <br/><b>SolarMind AI</b> · Time-Series ML + LLM<br/>
       Real-time anomaly detection for solar PV monitoring with LLM-powered reporting.
     </td>
   </tr>
@@ -232,14 +232,14 @@
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN/agriwaste2fuel">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAKTHIVEL-SEENIVASAN&repo=agriwaste2fuel&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
-      <br/><b>AgriWaste2Fuel</b> &middot; Multimodal ML &middot; ₹3,00,000 Prize + ₹75,000 Internship<br/>
+      <br/><b>AgriWaste2Fuel</b> · Multimodal ML · ₹3,00,000 Prize + ₹75,000 Internship<br/>
       YOLOv8-based agricultural waste classification with a biogas/compost/biofuel recommendation engine.
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN/smart-mess">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAKTHIVEL-SEENIVASAN&repo=smart-mess&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
-      <br/><b>Smart Mess</b> &middot; Demand Forecasting
+      <br/><b>Smart Mess</b> · Demand Forecasting
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/SAKTHIVEL-SEENIVASAN">
@@ -261,9 +261,9 @@
 </div>
 
 <p align="center">
-  <b>B.Tech, Artificial Intelligence & Data Science</b> &middot; 2022 &ndash; 2026<br/>
+  <b>B.Tech, Artificial Intelligence & Data Science</b> · 2022 – 2026<br/>
   Achariya College of Engineering & Technology, Puducherry (affiliated to Pondicherry University)<br/>
-  CGPA: 8.5 / 10.0 &middot; Top 5 in Department
+  CGPA: 8.5 / 10.0 · Top 5 in Department
 </p>
 
 <!-- ===== DIVIDER ===== -->
@@ -287,12 +287,12 @@
 </table>
 
 <p align="center">
-  Winner, IIT Ropar Innovation Challenge &mdash; ₹3,00,000 Prize + ₹75,000 Research Internship<br/>
-  3rd Place, FuturePreneur Grand Finale 2025 &mdash; ₹10,000 Cash Prize<br/>
-  Runner-Up, Smart City Hackathon &mdash; ₹10,000 Cash Prize<br/>
-  Best Innovation Award, Eureka 3.0 &mdash; ₹2,000 Cash Prize<br/>
-  1st Place, TechXplore 25 &mdash; ₹2,000 Cash Prize<br/>
-  Top 3, National IMPACTX Innovation Hackathon &mdash; ₹4,000 Cash Prize<br/>
+  Winner, IIT Ropar Innovation Challenge — ₹3,00,000 Prize + ₹75,000 Research Internship<br/>
+  3rd Place, FuturePreneur Grand Finale 2025 — ₹10,000 Cash Prize<br/>
+  Runner-Up, Smart City Hackathon — ₹10,000 Cash Prize<br/>
+  Best Innovation Award, Eureka 3.0 — ₹2,000 Cash Prize<br/>
+  1st Place, TechXplore 25 — ₹2,000 Cash Prize<br/>
+  Top 3, National IMPACTX Innovation Hackathon — ₹4,000 Cash Prize<br/>
   Runner-Up, Yi Yuva Future 5.0<br/>
   Department Top Performer, AI & Data Science
 </p>
@@ -372,12 +372,12 @@
   </h2>
 </div>
 <p align="center">
-  <b>2022</b> &middot; Started B.Tech in AI & Data Science<br/>
-  <b>2023</b> &middot; First hackathon win, built foundational ML skills<br/>
-  <b>2024</b> &middot; 3x national hackathon wins, Gold Rank in AI & Data Science<br/>
-  <b>2025</b> &middot; AI Research Intern at IIT Ropar, built the YOLOv8 multimodal pipeline<br/>
-  <b>2026</b> &middot; Besant Technologies AI/ML internship, Aiseri Lab AI Engineer Intern, Technical Trainer at Marcello Tech, and AI Engineer at Ashirvad by Aliaxis<br/>
-  <b>2026+</b> &middot; Building the future of AI engineering
+  <b>2022</b> · Started B.Tech in AI & Data Science<br/>
+  <b>2023</b> · First hackathon win, built foundational ML skills<br/>
+  <b>2024</b> · 3x national hackathon wins, Gold Rank in AI & Data Science<br/>
+  <b>2025</b> · AI Research Intern at IIT Ropar, built the YOLOv8 multimodal pipeline<br/>
+  <b>2026</b> · Besant Technologies AI/ML internship, Aiseri Lab AI Engineer Intern, Technical Trainer at Marcello Tech, and AI Engineer at Ashirvad by Aliaxis<br/>
+  <b>2026+</b> · Building the future of AI engineering
 </p>
 
 <!-- ===== DIVIDER ===== -->
